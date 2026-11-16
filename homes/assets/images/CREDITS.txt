@@ -1,0 +1,228 @@
+Barima Homes: image credits
+===========================
+Source note: Unsplash's search API returned a bot challenge and Pexels/Pixabay
+returned 403 from this Mac, so the images below come from Wikimedia Commons
+(real Ghana photos, Creative Commons licences) and rawpixel (CC0 public domain).
+CC BY / CC BY-SA images REQUIRE visible attribution on the site (e.g. a
+"Photo credits" line in the footer). The CC0 images need no attribution.
+All files were resized to the listed width and re-encoded as JPEG (q78; the 15 Nov replacements house-2, estate, build,
+land-4 and interior at q82, downscaled from Commons thumbnails, never upscaled).
+
+hero.jpg (2000px)
+  Photographer: Matti Blume
+  Licence:      CC BY-SA 4.0
+  Page:         https://commons.wikimedia.org/wiki/File:Royal_Senchi,_Asuogyaman_(P1100026).jpg
+  Description:  Villa at Royal Senchi, Asuogyaman, Eastern Region, Ghana. Thatched-roof villa with a lush lawn.
+
+house-1.jpg (1200px)
+  Photographer: Remy Mboku
+  Licence:      CC BY 2.0
+  Page:         https://commons.wikimedia.org/wiki/File:Luxury_Villa_House_(South_Ghana).jpg
+  Description:  Luxury villa house with a swimming pool in the Greater Accra Region, South Ghana.
+
+house-2.jpg (1600px)
+  Photographer: Brie Mensa
+  Licence:      CC BY-SA 4.0
+  Page:         https://commons.wikimedia.org/wiki/File:Side_view_AWDF.jpg
+  Description:  Side view of AWDF House, a modern two-storey white villa with columns and lawn, East Legon, Accra, Ghana.
+
+house-3.jpg (1200px)
+  Photographer: Kwameghana
+  Licence:      CC BY-SA 4.0
+  Page:         https://commons.wikimedia.org/wiki/File:A_mansion_by_the_road.jpg
+  Description:  Two-storey family mansion with balconies, palm trees and garden in Ghana ("Home + Habitat in Africa").
+
+house-4.jpg (1200px)
+  Photographer: Kwameghana
+  Licence:      CC BY-SA 4.0
+  Page:         https://commons.wikimedia.org/wiki/File:A_standard_residential_house_1.jpg
+  Description:  Standard residential bungalow with arched veranda and tropical vegetation in Ghana.
+
+land-1.jpg (1200px)
+  Photographer: Ibrahim Achiri
+  Licence:      CC BY-SA 4.0
+  Page:         https://commons.wikimedia.org/wiki/File:A_green_farmland_field.jpg
+  Description:  A green field with a few trees and a blue sky; open land with red-earth roadside, Ghana.
+
+land-2.jpg (1200px)
+  Photographer: Sheihu Salawatia
+  Licence:      CC BY-SA 4.0
+  Page:         https://commons.wikimedia.org/wiki/File:Fertile_Farmlands_in_Northern_Ghana.jpg
+  Description:  Fertile farmlands with scattered trees in Northern Ghana.
+
+land-3.jpg (1200px)
+  Photographer: Suglo20
+  Licence:      CC BY-SA 4.0
+  Page:         https://commons.wikimedia.org/wiki/File:Lush_Farmland.jpg
+  Description:  Lush green agricultural land during the growing season, Ghana.
+
+estate.jpg (1400px)
+  Photographer: Justice Okai-Allotey
+  Licence:      CC BY-SA 4.0
+  Page:         https://commons.wikimedia.org/wiki/File:South_La_Estate_Street.jpg
+  Description:  A street of walled, newer homes in South La Estate, Accra, Ghana (Wiki Loves Places photowalk).
+
+build.jpg (1400px, cropped)
+  Photographer: Ruky Wunpini
+  Licence:      CC BY-SA 4.0
+  Page:         https://commons.wikimedia.org/wiki/File:Uncompleted_building.jpg
+  Description:  Uncompleted three-room sandcrete block house with a stack of blocks, Ghana. Cropped to remove
+                the camera watermark at the bottom.
+
+land-4.jpg (1400px)
+  Photographer: Masssly
+  Licence:      CC BY-SA 4.0
+  Page:         https://commons.wikimedia.org/wiki/File:Land_and_pillar_demarcation_at_Jena_Kpeng_near_Tamale_2.jpg
+  Description:  Plots for sale being demarcated with pillars at Jena Kpeng near Tamale, Northern Region, Ghana.
+
+keys.jpg (1200px)
+  Photographer: rawpixel (uncredited contributor)
+  Licence:      CC0 1.0 (public domain)
+  Page:         https://www.rawpixel.com/image/5969541/house-keys
+  Description:  Hand holding out house keys on a green key fob, with blurred houses behind.
+
+interior.jpg (1400px)
+  Photographer: Kwameghana
+  Licence:      CC BY-SA 4.0
+  Page:         https://commons.wikimedia.org/wiki/File:A_standard_living_room_in_Accra.jpg
+  Description:  A standard living room in Accra, Ghana: leather sofas, tiled floor, curtained louvre windows.
+
+apartment.jpg (1400px, 1400x933)
+  Photographer: Matti Blume
+  Licence:      CC BY-SA 4.0
+  Page:         https://commons.wikimedia.org/wiki/File:The_Signature_Apartments,_Ayawaso_West_(P1100124).jpg
+  Description:  The Signature Apartments, East Legon (Ayawaso West), Accra, Ghana: twin stepped white
+                high-rise apartment towers with wood-tone balcony bands, photographed 8 Feb 2023.
+                Cropped from the 1920px Commons thumbnail (removed a third-party "Clifton Homes" sign,
+                crane and some sky), q82, never upscaled. Adapted work, so CC BY-SA applies to it.
+
+Suggested footer line:
+  Photos: Matti Blume, Remy Mboku, Brie Mensa, Kwameghana, Justice Okai-Allotey,
+  Ruky Wunpini, Masssly, Ibrahim Achiri, Sheihu Salawatia, Suglo20 via Wikimedia
+  Commons (CC BY / CC BY-SA); rawpixel (CC0).
+
+--- Modern Ghana houses (added 15 Nov 2026; Commons thumbnails resized, q82, never upscaled) ---
+
+hero-modern.jpg (2000x1332)
+  Photographer: Kwameghana (Bright Kwame Ayisi)
+  Licence:      CC BY-SA 4.0
+  Page:         https://commons.wikimedia.org/wiki/File:Modern_residential_building.jpg
+  Description:  Modern white four-storey residential building with flat roof, balconies and
+                timber-tone fins, behind a landscaped verge; hillside and open sky on the left.
+                Wiki Loves Africa 2022, category "Images from Wiki Loves Africa 2022 in Ghana".
+                Uncropped, resized only.
+
+modern-1.jpg (1200x900)
+  Photographer: Amuzujoe
+  Licence:      CC BY-SA 4.0
+  Page:         https://commons.wikimedia.org/wiki/File:Apartments_East_Cantonment.jpg
+  Description:  Contemporary two-storey white and slate-grey flat-roof house behind a white
+                perimeter wall and black gate, East Cantonments, Accra (WLA 2022, Ghana).
+                Edit: house-number and address plates on the gate pillar blurred for privacy.
+                Adapted work, so CC BY-SA applies to it.
+
+modern-2.jpg (1200x587)
+  Photographer: Amuzujoe
+  Licence:      CC BY-SA 4.0
+  Page:         https://commons.wikimedia.org/wiki/File:Apartment_Modern.jpg
+  Description:  Cantilevered contemporary townhouses with glass balustrades and roof terraces,
+                Ghana (WLA 2022, "Buildings in Ghana"). Cropped to the top ~62% of the frame
+                to remove a large developer signboard ("Acasia / Devtraco Plus") and a plaque
+                at the bottom-left; also trimmed 200px from the left. Adapted work, CC BY-SA.
+
+modern-3.jpg (1200x900)
+  Photographer: Matti Blume
+  Licence:      CC BY-SA 4.0
+  Page:         https://commons.wikimedia.org/wiki/File:North_Ridge,_Korle-Klottey_(P1090863).jpg
+  Description:  Three-storey grey-and-white apartment building behind a terracotta brick wall
+                with palms, North Ridge, Accra (GPS 5.5640, -0.1989), 2 Feb 2023. Resized only.
+
+Footer credit line additions: Kwameghana, Amuzujoe, Matti Blume (already listed) via Wikimedia Commons (CC BY-SA 4.0).
+
+--- Apartment photos (added 16 Nov 2026; from 1920px Commons thumbnails, q85, never upscaled) ---
+
+apt-ext-1.jpg (1200x900)
+  Photographer: Matti Blume
+  Licence:      CC BY-SA 4.0 (also GFDL)
+  Page:         https://commons.wikimedia.org/wiki/File:Clifton_Place,_Ayawaso_West_(P1100133).jpg
+  Description:  Aerial view of a four-storey apartment block with terracotta tile roof and white
+                balconies beside a modern high-rise, East Legon (Ayawaso West), Accra, Ghana,
+                8 Feb 2023 (GPS 5.6260, -0.1716; category "Apartment buildings in Ghana").
+                Cropped to 4:3 (trimmed 60px top, ~224px bottom of the 1920x1724 thumbnail),
+                then resized. Adapted work, so CC BY-SA applies to it.
+
+apt-ext-2.jpg (1200x667)
+  Photographer: Matti Blume
+  Licence:      CC BY-SA 4.0 (also GFDL)
+  Page:         https://commons.wikimedia.org/wiki/File:Villagio_Vista,_Ayawaso_West_(P1100122).jpg
+  Description:  Villagio Vista high-rise apartment towers (yellow, red and green facade panels)
+                with rooftop gardens, Airport area (Ayawaso West), Accra, Ghana, 8 Feb 2023.
+                Cropped to the buildings (box 215,240 to 1745,1090 on the 1920px thumbnail) to
+                remove roadside billboards, a developer hoarding and a building name sign;
+                then resized. Adapted work, so CC BY-SA applies to it.
+
+apt-int-1.jpg (1200x801)
+  Photographer: Shixart1985
+  Licence:      CC BY 2.0
+  Page:         https://commons.wikimedia.org/wiki/File:Modern_kitchen_and_dining_area_with_stylish_furnishings_and_natural_light_in_a_contemporary_home_setting.jpg
+  Description:  Open-plan modern kitchen (matte charcoal units, subway tiles) and dining area
+                with pendant lights, large floor tiles and glazed doors to a terrace. Not shot
+                in Ghana (location unstated). Resized only.
+
+apt-int-2.jpg (1200x801)
+  Photographer: Shixart1985
+  Licence:      CC BY 2.0
+  Page:         https://commons.wikimedia.org/wiki/File:Modern_living_room_with_stylish_furniture_and_a_view_of_the_outdoors_in_a_cozy_apartment_setting.jpg
+  Description:  Apartment living room: tan suede sofa, dark coffee table, timber TV wall,
+                full-height balcony door with dark drapes. Not shot in Ghana (location
+                unstated). Resized only.
+
+apt-int-3.jpg (1200x801)
+  Photographer: Nenad Stojkovic (via Flickr, FlickreviewR-verified)
+  Licence:      CC BY 2.0
+  Page:         https://commons.wikimedia.org/wiki/File:Bedroom_hotel_interior_with_open_door_window._(51536308276).jpg
+  Description:  Bright bedroom: grey feature wall, upholstered headboard, pendant lamps, sheer
+                curtains and an open glass door to a lawn. Not shot in Ghana. Resized only.
+
+Footer credit line additions: Shixart1985, Nenad Stojkovic via Wikimedia Commons (CC BY 2.0);
+  Matti Blume already listed (CC BY-SA 4.0).
+
+hero-akaya.jpg (homepage hero) and hero-akaya-2.jpg (homepage "Family homes" photo), added 16 Nov 2026
+  Source:       Supplied by Wameer (files "akayabytrasacco2.webp" and "akayabytrasacco10.webp").
+                They appear to be marketing renders from Akaya by Trasacco (https://akayabytrasacco.com/).
+  Licence:      NOT a free licence. Owned by their creator; used at the site owner's request.
+                Get permission from Trasacco before publishing, or switch back to the
+                free-licence images: hero-modern.jpg (hero) and house-4.jpg (Family homes).
+
+plot-a.jpg, plot-b.jpg, plot-c.jpg (land cards and land listings), added 16 Nov 2026
+  Source:       Supplied by Wameer (land-a.jpg, land-b.jpg, land-c.jpg). These look like
+                iStock preview images (612px).
+  Licence:      NOT licensed yet. Buy the iStock licence (and the full-size files) before
+                the site goes live, or switch back to the free images: land-1.jpg,
+                land-2.jpg, land-4.jpg (Wikimedia Commons, CC BY-SA 4.0).
+
+interior-new-1.jpg ("Ready to move in" photo + apartment listing photos) and
+interior-new-2.jpg (apartment listing photos + bungalow listing), added 16 Nov 2026
+  Source:       Supplied by Wameer (files "interior3.webp" and "Lesh-05.jpg"). Owner unknown.
+  Licence:      NOT confirmed. Confirm the rights (or get permission) before the site goes live,
+                or switch back to interior.jpg (Kwameghana, CC BY-SA 4.0) and apt-int-*.jpg.
+
+villa-pool.jpg ("Villas & gardens" photo), added 16 Nov 2026
+  Source:       Supplied by Wameer (file "our-inviting-pool.jpg"). Looks like a resort's own photo; owner unknown.
+  Licence:      NOT confirmed. Get permission before the site goes live, or switch back to
+                hero.jpg (Matti Blume, CC BY-SA 4.0).
+
+estate-new.jpg ("Estate homes" photo), added 16 Nov 2026
+  Source:       Supplied by Wameer (file "unnamed 2.jpg"). Owner unknown.
+  Licence:      NOT confirmed. Get permission before the site goes live, or switch back to
+                estate.jpg (free licence, see above).
+
+cta-greens.jpg (call-to-action background), added 16 Nov 2026
+  Source:       Supplied by Wameer (file "the-greens.webp"). Owner unknown.
+  Licence:      NOT confirmed. Get permission before the site goes live, or switch back to
+                house-1.jpg (free licence, see above).
+
+interior-new-3.jpg (FAQ section photo), added 16 Nov 2026
+  Source:       Supplied by Wameer (file "interior2-1.webp"). Looks like a developer render; owner unknown.
+  Licence:      NOT confirmed. Get permission before the site goes live, or switch back to
+                land-3.jpg (Suglo20, CC BY-SA 4.0).

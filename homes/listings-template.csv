@@ -1,0 +1,14 @@
+﻿ref,status,type,title,location,price,amount,bedrooms,size,features,image,photos
+BH-H01,available,house,Modern gated house,Accra,Price on request,,,,Gated compound,modern-1.jpg,
+BH-H02,available,house,Contemporary townhouse,Accra,Price on request,,,,Roof terrace,modern-2.jpg,
+BH-H03,available,house,Villa with pool,Greater Accra,Price on request,,,,Swimming pool,house-1.jpg,
+BH-H04,sold,house,Two-storey house,Greater Accra,Price on request,,,,Balconies,house-3.jpg,
+BH-H05,available,house,Family bungalow,Ghana,Price on request,,,,Veranda,house-4.jpg,interior-new-2.jpg
+BH-A01,available,apartment,Apartment in a modern block,"East Legon, Accra",Price on request,,1–3 bedrooms,,Lift access,apartment.jpg,interior-new-1.jpg | interior-new-2.jpg | apt-int-1.jpg | apt-int-3.jpg
+BH-A02,available,apartment,Modern apartment building,Accra,Price on request,,,,Walled compound,modern-3.jpg,interior-new-1.jpg | interior-new-2.jpg | apt-int-1.jpg | apt-int-3.jpg
+BH-A03,available,apartment,New-build apartments,Accra,Price on request,,,,Balconies,hero-modern.jpg,interior-new-1.jpg | interior-new-2.jpg | apt-int-1.jpg | apt-int-3.jpg
+BH-A04,available,apartment,2-bedroom apartment,"East Legon, Accra",Price on request,,2 bedrooms,,Open-plan kitchen,apt-ext-1.jpg,interior-new-1.jpg | interior-new-2.jpg | apt-int-1.jpg | apt-int-3.jpg
+BH-A05,sold,apartment,Apartment with city views,Accra,Price on request,,,,Balcony,apt-ext-2.jpg,interior-new-1.jpg | interior-new-2.jpg | apt-int-1.jpg | apt-int-3.jpg
+BH-L01,available,land,Residential plot,Ghana,Price on request,,,,Documents available,plot-c.jpg,
+BH-L02,available,land,Building plot,Ghana,Price on request,,,,Documents available,plot-b.jpg,
+BH-L03,sold,land,Investment land,Ghana,Price on request,,,,Documents available,plot-a.jpg,
