@@ -893,3 +893,12 @@ a.c-card:hover { background: rgba(255, 255, 255, .13); }
 @media (min-width: 901px) and (max-width: 1080px) {
   .ride-grid > .ride-card:last-child:nth-child(odd) { grid-column: 1 / -1; }
 }
+
+/* Top bar: keep the phone number on one line on small phones */
+.topbar__phone, .topbar__item { white-space: nowrap; }
+.topbar__short { display: none; }
+@media (max-width: 480px) {
+  .topbar__long { display: none; }
+  .topbar__short { display: inline; }
+  .topbar__inner { gap: 10px; }
+}

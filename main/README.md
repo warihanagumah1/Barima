@@ -8,8 +8,7 @@ Static site, no build step. Open `index.html` in a browser to view it.
 - `assets/favicon.svg`: script "B" icon
 - `assets/images/`: `automobile.jpg` (from the automobile site), `homes.jpg` (Wikimedia Commons, Kwameghana, CC BY-SA 4.0: needs a visible credit before launch), `cuisine.jpg` (Barima Cuisine's own photo; confirm the client owns it)
 
-Links to the sister sites are relative (`../automobile/index.html`, `../homes/index.html`) so they work locally.
-When the domain is known, replace them with the subdomains (e.g. `https://automobile.<domain>`, `https://homes.<domain>`).
+Links point to the live addresses: https://barimaholdings.com (this site), https://automobile.barimaholdings.com, https://homes.barimaholdings.com.
 Barima Cuisine links to its existing site, https://barimacuisine.com/.
 
-To deploy, upload the contents of `main/` to the parent domain's web root.
+To deploy, the contents of `main/` must be served at https://barimaholdings.com/ (the domain's document root).
