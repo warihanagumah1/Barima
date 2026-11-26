@@ -1,4 +1,4 @@
-:root { --lg-hero: linear-gradient(160deg, var(--navy-800), var(--navy) 50%, var(--navy-900)); --lg-hero-muted: #c9d4ea; --lg-accent: var(--red); --lg-accent-light: #ff8a93; --lg-soft: var(--sky); --lg-line: var(--line); --lg-muted: var(--muted); --lg-ink: var(--navy); --lg-heading: var(--font); }
+:root { --lg-hero: linear-gradient(160deg, var(--navy-800), var(--navy) 50%, var(--navy-900)); --lg-hero-muted: #c9d4ea; --lg-accent: var(--red); --lg-accent-light: #ff8088; --lg-soft: var(--sky); --lg-line: var(--line); --lg-muted: var(--muted); --lg-ink: var(--navy); --lg-heading: var(--font); }
 /* Legal pages (terms & privacy) */
 .legal-hero { background: var(--lg-hero); color: #fff; padding: 64px 0 56px; }
 .legal-back { display: inline-block; font-size: 14px; font-weight: 600; color: var(--lg-hero-muted); margin-bottom: 18px; }
