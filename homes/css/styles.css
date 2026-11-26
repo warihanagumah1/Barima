@@ -513,3 +513,10 @@ html.has-ldetail, html.has-ldetail body { overflow: hidden; }
   .enquire .btn--lg { white-space: normal; }
 }
 .listings__loading { grid-column: 1 / -1; text-align: center; padding: 60px 0; color: var(--muted); font-weight: 600; }
+
+/* Footer: keep company names on one line on wide screens */
+@media (min-width: 1101px) {
+  .footer__inner { grid-template-columns: .9fr 2.4fr; }
+  .footer__cols { grid-template-columns: auto auto auto; justify-content: space-between; }
+  .footer__cols > div:last-child a { white-space: nowrap; }
+}

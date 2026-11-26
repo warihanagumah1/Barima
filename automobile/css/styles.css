@@ -906,3 +906,10 @@ a.c-card:hover { background: rgba(255, 255, 255, .13); }
   .topbar__short { display: inline; }
   .topbar__inner { gap: 10px; }
 }
+
+/* Footer: keep company names on one line on wide screens */
+@media (min-width: 1101px) {
+  .footer__inner { grid-template-columns: .85fr 2.4fr; }
+  .footer__cols { grid-template-columns: auto auto auto; justify-content: space-between; }
+  .footer__cols > div:last-child a { white-space: nowrap; }
+}
